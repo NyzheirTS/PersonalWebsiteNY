@@ -57,15 +57,3 @@
       float: none;
     }
   }
-
-  .body{
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: larger;
-  }
-
-  .body-2{
-    text-align: left;
-    color:aqua;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
