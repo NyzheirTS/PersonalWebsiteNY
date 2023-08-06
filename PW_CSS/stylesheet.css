@@ -1,4 +1,7 @@
-
+body, html{
+ height: 100%;
+ margin: 0;
+}
 
 /* Style the header */
 header{
@@ -13,11 +16,17 @@ header{
   color: white;
 }
 
-body{
-  background-repeat: no-repeat;
-  background-size:cover;
-  height: 100%;
-  background-position: center;
-  overflow: hidden;
-  color: white;
+.p-1{
+  font-size: large;
+  text-align: center;
+  margin: 10px;
 }
+
+.background-containter{
+  background-image: url('https://github.com/NyzheirTS/PersonalWebsiteNY/blob/main/Images/lake-view.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
