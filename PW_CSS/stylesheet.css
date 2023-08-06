@@ -19,14 +19,34 @@ header{
 .p-1{
   font-size: large;
   text-align: center;
-  margin: 10px;
+  margin: 30px;
 }
 
-.background-containter{
-  background-image: url('https://github.com/NyzheirTS/PersonalWebsiteNY/blob/main/Images/lake-view.jpg');
+.background-container{
+  background-image: url("https://github.com/NyzheirTS/PersonalWebsiteNY/blob/f82e723e6be861d526da80e36b9b953704823d9b/Images/lake-view.jpg?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  height: 100%;
+/*
+links to other possible backgrounds for quick switching
 
+https://github.com/NyzheirTS/PersonalWebsiteNY/blob/b1dd6d3012bcb4b68848fad892e3a4277fb49faf/Images/GalWide.jpeg?raw=true
+https://github.com/NyzheirTS/PersonalWebsiteNY/blob/f82e723e6be861d526da80e36b9b953704823d9b/Images/4kbgimg.jpeg?raw=true
+https://github.com/NyzheirTS/PersonalWebsiteNY/blob/f82e723e6be861d526da80e36b9b953704823d9b/Images/lake-view.jpg?raw=true
+https://github.com/NyzheirTS/PersonalWebsiteNY/blob/b1dd6d3012bcb4b68848fad892e3a4277fb49faf/Images/Gaxy1.jpeg?raw=true
+*/
 }
 
+/* VVV scrollbar customization VVV */
+::-webkit-scrollbar{
+  width: 10px;
+}
+::-webkit-scrollbar-track{
+  background: none;
+}
+::-webkit-scrollbar-thumb{
+  background: white;
+}
+::-webkit-scrollbar-thumb:hover{
+  background: #e0e0e0;
+}
