@@ -1,3 +1,9 @@
+
+/*general settings*/
+.flex{
+  display: flex;
+  gap: var(--gap, 3rem);
+}
 body, html{
  height: 100%;
  margin: 0;
@@ -5,7 +11,8 @@ body, html{
 
 /* Style the header */
 header{
-   padding-top: 200px;
+   padding-top: 70px;
+   padding-bottom: 200px;
 }
 
 .header-text{
@@ -47,15 +54,6 @@ https://github.com/NyzheirTS/PersonalWebsiteNY/blob/b1dd6d3012bcb4b68848fad892e3
 
 /* Nav bar style*/
 
-.home{
-  text-decoration:none;
-  color: rgb(255, 255, 255);
-
-}
-.projects{
-  text-decoration: none;
-  color: white;
-}
 
 /* VVV scrollbar customization VVV */
 ::-webkit-scrollbar{
