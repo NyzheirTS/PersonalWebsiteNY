@@ -33,20 +33,10 @@
         <nav>
             <ul id="main-navbar" class="main-navbar flex">
                 <li class="active">
-<<<<<<< HEAD:projects
-                    <a href="Home">
-                        <span aria-hidden="true">00-</span>Home
-                    </a>
-                <li>
-                    <a href="projects">
-                        <span aria-hidden="true">01-</span>Projects
-                    </a>    
-=======
                     <a href="./">
                         <span aria-hidden="true">00-</span>Home
                     </a>
                 <li>   
->>>>>>> 0f33d28f11a5cfc9eb78f045c40fbf89a06e4ca2:projects.html
             </ul>
         </nav>
     </section>
