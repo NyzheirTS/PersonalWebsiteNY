@@ -29,31 +29,10 @@ header{
   margin: 30px;
 }
 
-
-/* background styling*/
-/*
-body::after{
-  position:absolute; z-index: -1;
-  content: url("https://github.com/NyzheirTS/PersonalWebsiteNY/blob/f82e723e6be861d526da80e36b9b953704823d9b/Images/lake-view.jpg?raw=true");
-}
-*/
-.background-container{
-  background-image: url("https://github.com/NyzheirTS/PersonalWebsiteNY/blob/f82e723e6be861d526da80e36b9b953704823d9b/Images/lake-view.jpg?raw=true");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 100%;
-/*
-links to other possible backgrounds for quick switching
-
-https://github.com/NyzheirTS/PersonalWebsiteNY/blob/b1dd6d3012bcb4b68848fad892e3a4277fb49faf/Images/GalWide.jpeg?raw=true
-https://github.com/NyzheirTS/PersonalWebsiteNY/blob/f82e723e6be861d526da80e36b9b953704823d9b/Images/4kbgimg.jpeg?raw=true
-https://github.com/NyzheirTS/PersonalWebsiteNY/blob/f82e723e6be861d526da80e36b9b953704823d9b/Images/lake-view.jpg?raw=true
-https://github.com/NyzheirTS/PersonalWebsiteNY/blob/b1dd6d3012bcb4b68848fad892e3a4277fb49faf/Images/Gaxy1.jpeg?raw=true
-*/
-}
-
 /* Nav bar style*/
+.main-navbar{
 
+}
 
 /* VVV scrollbar customization VVV */
 ::-webkit-scrollbar{

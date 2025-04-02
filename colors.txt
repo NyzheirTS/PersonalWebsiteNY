@@ -1,0 +1,16 @@
+
+color pallet for my website for scss light mode{
+$text: #ffffff;
+$background: #000000;
+$primary: #ee530b;
+$secondary: #020303;
+$accent: #d2d2d2;
+}
+
+Color pallet for my website dark mode by Abdiel Rivera{
+$text: #ffffff;
+$background: #000000;
+$primary: #34106e;
+$secondary: #625f5f;
+$accent: #62b1d3;
+}

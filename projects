@@ -1,0 +1,49 @@
+<html lang="en">
+
+   
+
+<head>
+    <meta name="hello" charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="Images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="PW_CSS//stylesheet.css" >
+    <link rel="preload"
+          as="image" 
+          href="https://github.com/NyzheirTS/PersonalWebsiteNY/blob/f82e723e6be861d526da80e36b9b953704823d9b/Images/lake-view.jpg?raw=true">
+    <title>Projects</title>
+</head>
+
+<body>
+<div class="background-container">
+    <header>
+        <h2 class="header-text">Projects</h2> 
+    </header>
+    <div class="p-1">
+        <p>
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+         Nullam auctor neque sed mi tincidunt, sed varius libero malesuada. 
+         Vivamus malesuada mauris et fringilla sagittis. 
+         Sed vel fermentum justo. 
+         Integer dapibus metus et ligula tincidunt, at varius justo hendrerit. 
+         Nunc at nisl vel dolor dapibus laoreet eu ut velit. 
+         In hac habitasse platea dictumst.
+        </p>
+    </div>
+    <section>
+        <nav>
+            <ul id="main-navbar" class="main-navbar flex">
+                <li class="active">
+                    <a href="Home">
+                        <span aria-hidden="true">00-</span>Home
+                    </a>
+                <li>
+                    <a href="projects">
+                        <span aria-hidden="true">01-</span>Projects
+                    </a>    
+            </ul>
+        </nav>
+    </section>
+
+</div>
+</body>
+</html>
